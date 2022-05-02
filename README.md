@@ -1,4 +1,6 @@
-# RANDOM CLASSIFICATION
+## EX-01 
+## Date:
+# <p align="center"> RANDOM CLASSIFICATION</p>
 ## AIM:
 To write a python program to perform random classification.
 
